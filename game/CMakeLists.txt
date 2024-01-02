@@ -4,4 +4,4 @@ add_executable(game
 )
 target_compile_features(game PRIVATE c_std_17)
 
-#target_link_libraries(game PRIVATE engine)
+target_link_libraries(game PUBLIC engine)

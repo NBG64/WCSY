@@ -1,5 +1,5 @@
-/cmake-build-debug
-/cmake-build-release
+/build/debug
+/build/release
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles

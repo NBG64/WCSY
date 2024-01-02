@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "../engine/platform.h"
 
 int main() {
-    printf("Hello World! \n");
+    Log();
     return 0;
 }
